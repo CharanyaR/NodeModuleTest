@@ -1,0 +1,29 @@
+{
+  "name": "testmodulebycharr",
+  "version": "0.0.0",
+  "description": "this is a utility package to escape and unescape html entities",
+  "main": "index.js",
+  "scripts": {
+   "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharanyaR/NodeModuleTest.git"
+  },
+  "keywords": [
+    "charr",
+    "test"
+  ],
+  "author": "charr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharanyaR/NodeModuleTest/issues"
+  },
+  "homepage": "https://github.com/CharanyaR/NodeModuleTest#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "grunt": "^0.4.5",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.2.5"
+  }
+}
